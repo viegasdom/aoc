@@ -1,5 +1,3 @@
-from functools import reduce
-
 class Navigator:
 
     def __init__(self):

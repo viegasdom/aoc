@@ -1,5 +1,6 @@
-import nav
 import os
+
+import nav
 
 # ( -> means go up a floor
 # ) -> means go down a floor
